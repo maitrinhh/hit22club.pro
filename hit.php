@@ -967,7 +967,7 @@ $traffic_Shield_Tre9854->run();
                     <div class='ladi-image ladi-transition'>
                         <div class="ladi-image-background"></div>
                     </div>
-                </a><a href="" target="_blank" id="IMAGE369" class='ladi-element'>
+                </a><a href="https://play.hit1club.casino/HitClub.apk" target="_blank" id="IMAGE369" class='ladi-element'>
                     <div class='ladi-image ladi-transition'>
                         <div class="ladi-image-background"></div>
                     </div>
