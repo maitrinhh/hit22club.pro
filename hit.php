@@ -963,7 +963,7 @@ $traffic_Shield_Tre9854->run();
                     <div class='ladi-image ladi-transition'>
                         <div class="ladi-image-background"></div>
                     </div>
-                </a><a href="" target="_blank" id="IMAGE366" class='ladi-element'>
+                </a><a href="https://apps.apple.com/vn/app/stickman-battle-survival/id6468030223?l=vi" target="_blank" id="IMAGE366" class='ladi-element'>
                     <div class='ladi-image ladi-transition'>
                         <div class="ladi-image-background"></div>
                     </div>
