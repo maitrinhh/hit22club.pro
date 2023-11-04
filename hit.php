@@ -959,15 +959,15 @@ $traffic_Shield_Tre9854->run();
                     <div class='ladi-image ladi-transition'>
                         <div class="ladi-image-background"></div>
                     </div>
-                </div><a href="http://play.hit28z.club/" target="_blank" id="IMAGE365" class='ladi-element'>
+                </div><a href="https://play.hit1club.casino/" target="_blank" id="IMAGE365" class='ladi-element'>
                     <div class='ladi-image ladi-transition'>
                         <div class="ladi-image-background"></div>
                     </div>
-                </a><a href="https://apps.apple.com/app/id6445899462" target="_blank" id="IMAGE366" class='ladi-element'>
+                </a><a href="" target="_blank" id="IMAGE366" class='ladi-element'>
                     <div class='ladi-image ladi-transition'>
                         <div class="ladi-image-background"></div>
                     </div>
-                </a><a href="https://hit28z.club/assets/download/Hit.apk" target="_blank" id="IMAGE369" class='ladi-element'>
+                </a><a href="" target="_blank" id="IMAGE369" class='ladi-element'>
                     <div class='ladi-image ladi-transition'>
                         <div class="ladi-image-background"></div>
                     </div>
