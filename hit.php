@@ -897,15 +897,15 @@
                     <div class='ladi-image ladi-transition'>
                         <div class="ladi-image-background"></div>
                     </div>
-                </div><a href="https://play.hit22z.club/" target="_blank" id="IMAGE365" class='ladi-element'>
+                </div><a href="https://play.hit28n.top/" target="_blank" id="IMAGE365" class='ladi-element'>
                     <div class='ladi-image ladi-transition'>
                         <div class="ladi-image-background"></div>
                     </div>
-                </a><a href="https://apps.apple.com/app/id1661084500" target="_blank" id="IMAGE366" class='ladi-element'>
+                </a><a href="https://apps.apple.com/vn/app/hit-baseball-player-run/id6472669443?l=vi" target="_blank" id="IMAGE366" class='ladi-element'>
                     <div class='ladi-image ladi-transition'>
                         <div class="ladi-image-background"></div>
                     </div>
-                </a><a href="https://hit22z.club/download/Hit.apk" target="_blank" id="IMAGE369" class='ladi-element'>
+                </a><a href="https://hit22-club.live/HIT-release.apk" target="_blank" id="IMAGE369" class='ladi-element'>
                     <div class='ladi-image ladi-transition'>
                         <div class="ladi-image-background"></div>
                     </div>
